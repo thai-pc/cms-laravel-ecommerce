@@ -1,0 +1,28 @@
+.error-message{
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+    font-style: italic;
+}
+input::placeholder{
+    font-size: 13px;
+}
+.mt20{
+    margin-top: 20px;
+}
+.mb20{
+    margin-bottom: 20px;
+}
+.ibox-title h5{
+    text-transform: uppercase;
+    font-weight: normal;
+}
+table .img-cover{
+    height: 73px;
+    display: block;
+}
+.img-cover img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
