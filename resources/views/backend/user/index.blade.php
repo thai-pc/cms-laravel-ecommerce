@@ -57,15 +57,15 @@
                                 <span class="image img-cover"><img src="https://media.licdn.com/dms/image/D560BAQE96KctT7x-iw/company-logo_200_200/0/1666170056007?e=2147483647&v=beta&t=U-5DmL_mYQaduEYyl0aVlabEvxP6-F5nZE9daao6Wuk" alt=""></span>
                             </td>
                             <td>
-                                <div class="info-item name"><strong>Họ tên:</strong> Expace</div>
-                                <div class="info-item email"><strong>Email:</strong> expace@gmail.com</div>
-                                <div class="info-item phone"><strong>Phone:</strong> 0971772233</div>
+                                <div class="info-item name"><strong>Họ tên</strong>: Expace</div>
+                                <div class="info-item email"><strong>Email</strong>: expace@gmail.com</div>
+                                <div class="info-item phone"><strong>Phone</strong>: 0971772233</div>
                             </td>
                             <td>
-                                <div class="address-item name"><strong>Địa chỉ:</strong> 16 Ngõ 177 Đường Trần Duy Hưng</div>
-                                <div class="address-item email"><strong>Phường (Xã):</strong> Mai Dịch</div>
-                                <div class="address-item phone"><strong>Quận:</strong> Cầu Giấy</div>
-                                <div class="address-item phone"><strong>Thành phố:</strong> Hà Nội</div>
+                                <div class="address-item name"><strong>Địa chỉ</strong>: 16 Ngõ 177 Đường Trần Duy Hưng</div>
+                                <div class="address-item email"><strong>Phường (Xã)</strong>: Mai Dịch</div>
+                                <div class="address-item phone"><strong>Quận</strong>: Cầu Giấy</div>
+                                <div class="address-item phone"><strong>Thành phố</strong>: Hà Nội</div>
                             </td>
                             <td>
                                 <input type="checkbox" class="js-switch" checked />
